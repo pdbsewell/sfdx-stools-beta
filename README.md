@@ -22,7 +22,7 @@ $ npm install -g sfdx-stools-beta
 $ sfdx COMMAND
 running command...
 $ sfdx (-v|--version|version)
-sfdx-stools-beta/0.0.1 darwin-x64 node-v12.18.0
+sfdx-stools-beta/0.0.1 linux-x64 node-v12.16.3
 $ sfdx --help [COMMAND]
 USAGE
   $ sfdx COMMAND
